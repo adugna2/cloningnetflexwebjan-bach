@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cloningnetflexwebjan-bach/static/css/main.14695c2d.css",
+    "main.js": "/cloningnetflexwebjan-bach/static/js/main.a6ce651c.js",
+    "index.html": "/cloningnetflexwebjan-bach/index.html",
+    "main.14695c2d.css.map": "/cloningnetflexwebjan-bach/static/css/main.14695c2d.css.map",
+    "main.a6ce651c.js.map": "/cloningnetflexwebjan-bach/static/js/main.a6ce651c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14695c2d.css",
+    "static/js/main.a6ce651c.js"
+  ]
+}
